@@ -10,9 +10,10 @@ const config = {
 
 
 export const users = [
-    { id: 1, firstName: 'Juan', lastName: 'Perez' },
-    { id: 2, firstName: 'Carlos', lastName: 'Perren' },
-    { id: 3, firstName: 'Luis', lastName: 'Gonzalez' }
+    { id: 1, firstName: 'Agu', lastName: 'Rod' },
+    { id: 2, firstName: 'Nati', lastName: 'Rub' }
+    
+
 ];
 
 
